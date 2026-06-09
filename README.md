@@ -13,7 +13,7 @@
      Why is this knowledge valuable, and why is it hard to find through official channels?
      Example: "Student reviews of CS professors at [university] — useful because official
      course descriptions don't reflect teaching style, exam difficulty, or workload." -->
-
+My domain is the balck community at Emory University. Because Emory University is considered a PWI, the black population isn't as prominent as others. So this will help black students find community as a minority on campus.
 ---
 
 ## Document Sources
@@ -24,16 +24,16 @@
 
 | # | Source | Type | URL or file path |
 |---|--------|------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | |Reddit |https://www.reddit.com/r/Emory/comments/1pwztgl/this_was_only_66_years_ago_just_imagine_receiving/ |
+| 2 | |web article |https://news.emory.edu/features/2021/09/emory-unpacks-history-of-slavery-and-dispossession/index.html#section-Unpacking-Emorys-History-11pUMjhtr8 |
+| 3 | |Reddit |https://www.reddit.com/r/Emory/comments/lit0wd/i_dont_recommend_emory_for_black_students/ |
+| 4 | |article |https://www.emorybusiness.com/2022/03/23/being-black-at-goizueta-a-womans-perspective/ |
+| 5 | |article |https://news.emory.edu/stories/2013/09/er_black_student_union_opens/campus.html |
+| 6 | |website |https://emoryblackbook.weebly.com/student-organizations.html |
+| 7 | |webpage |https://emoryblackbook.weebly.com/how-tos.html |
+| 8 | |article |https://www.meetyourclass.com/emory/student-population |
+| 9 | |webpage |https://datausa.io/profile/university/emory-university |
+| 10 | |webpage |http://www.blackexcel.org/emory.htm |
 
 ---
 
